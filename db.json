@@ -1,5 +1,5 @@
-{
-	"Devices":[
+
+[
 		{
 		"Registration": "12590",
 		"ConnectionType": "PumpRack",
@@ -12,8 +12,8 @@
 		"Serialnr": "470031506",
 		"Manufaturer": "BD (Becton Dickinson)",
 		"Owner": "Intensiv, intensiv akkutt anestesi,...",
-		"Placement": "HS.HSSV.02",
-		}
+		"Placement": "HS.HSSV.02"
+		},
 		{
 		"Registration": "12585",
 		"ConnectionType": "PumpRack",
@@ -26,8 +26,8 @@
 		"Serialnr": "470031503",
 		"Manufaturer": "BD (Becton Dickinson)",
 		"Owner": "Intensiv, intensiv akkutt anestesi,...",
-		"Placement": "HS.HSSV.02",
-		}
+		"Placement": "HS.HSSV.02"
+		},
 		{
 		"Registration": "5970",
 		"ConnectionType": "PumpRack",
@@ -40,8 +40,8 @@
 		"Serialnr": "470031503",
 		"Manufaturer": "BD (Becton Dickinson)",
 		"Owner": "Intensiv, intensiv akkutt anestesi,...",
-		"Placement": "HS.HSSV.02",
-		}
+		"Placement": "HS.HSSV.02"
+		},
 		{
 		"Registration": "205061",
 		"ConnectionType": "CapsuleBox",
@@ -54,6 +54,6 @@
 		"Serialnr": "DE12515714",
 		"Manufaturer": "Philips",
 		"Owner": "Intensiv, intensiv akkutt anestesi,...",
-		"Placement": "HS.HSSV.02",
+		"Placement": "HS.HSSV.02"
 		}
 ]
