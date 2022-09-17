@@ -1,0 +1,58 @@
+{
+	"Devices":[
+		{
+		"Registration": "12590",
+		"ConnectionType": "PumpRack",
+		"ConnectedDeviceSN": "3680-19557",
+		"ConnectedDeviceSlotnr": "03",
+		"TradeName": "Alaris CC Guardrails plus",
+		"DeviceType": "Infusjon, pumpe, sprøyte",
+		"NKKNcode": "25037",
+		"Model": "9002TIG03-G",
+		"Serialnr": "470031506",
+		"Manufaturer": "BD (Becton Dickinson)",
+		"Owner": "Intensiv, intensiv akkutt anestesi,...",
+		"Placement": "HS.HSSV.02",
+		}
+		{
+		"Registration": "12585",
+		"ConnectionType": "PumpRack",
+		"ConnectedDeviceSN": "3680-19557",
+		"ConnectedDeviceSlotnr": "05",
+		"TradeName": "Alaris CC Guardrails plus",
+		"DeviceType": "Infusjon, pumpe, sprøyte",
+		"NKKNcode": "25037",
+		"Model": "9002TIG03-G",
+		"Serialnr": "470031503",
+		"Manufaturer": "BD (Becton Dickinson)",
+		"Owner": "Intensiv, intensiv akkutt anestesi,...",
+		"Placement": "HS.HSSV.02",
+		}
+		{
+		"Registration": "5970",
+		"ConnectionType": "PumpRack",
+		"ConnectedDeviceSN": "3680-19560",
+		"ConnectedDeviceSlotnr": "01",
+		"TradeName": "Alaris CC Guardrails plus",
+		"DeviceType": "Infusjon, pumpe, sprøyte",
+		"NKKNcode": "25037",
+		"Model": "9002TIG03-G",
+		"Serialnr": "470031503",
+		"Manufaturer": "BD (Becton Dickinson)",
+		"Owner": "Intensiv, intensiv akkutt anestesi,...",
+		"Placement": "HS.HSSV.02",
+		}
+		{
+		"Registration": "205061",
+		"ConnectionType": "CapsuleBox",
+		"ConnectedDeviceSN": "6467872",
+		"ConnectedDeviceSlotnr": "02",
+		"TradeName": "IntelliVue MX700",
+		"DeviceType": "Overvåking, sengeenhet",
+		"NKKNcode": "18488",
+		"Model": "865241",
+		"Serialnr": "DE12515714",
+		"Manufaturer": "Philips",
+		"Owner": "Intensiv, intensiv akkutt anestesi,...",
+		"Placement": "HS.HSSV.02",
+		}
