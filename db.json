@@ -1,4 +1,5 @@
-
+{
+	"devices":
 [
 		{
 		"Registration": "12590",
@@ -57,3 +58,4 @@
 		"Placement": "HS.HSSV.02"
 		}
 ]
+}
