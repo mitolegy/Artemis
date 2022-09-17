@@ -1,2 +1,3 @@
 # Artemis
-Device tracker software made for Hospital use
+Device tracker software
+
